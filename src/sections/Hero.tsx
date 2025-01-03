@@ -3,7 +3,7 @@ import memojiImage from "../../public/images/memoji-computer.png";
 import grainImage from "../../public/images/grain.jpg";
 import StarIcon from "../../public/icons/star.svg";
 import SparkleIcon from "../../public/icons/sparkle.svg";
-import resume from "../../public/resume.pdf";
+
 
 import { ArrowDown } from "lucide-react";
 import { HoverBorderGradient } from "@/components/ui/hover-border-gradient";
